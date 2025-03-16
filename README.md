@@ -5,7 +5,7 @@
 </div>
 
 
-💻 Artificial Intelligence & Data Science Student<br><br>🔭 I’m currently working on [Safe Bite AI](https://github.com/thissya/Safe-Bite-AI)<br><br>🌱 I’m currently learning MERN Stack<br><br>💬 Ask me about how a scriptwriter and storyteller transformed his passion into a journey of coding and AI.<br><br>📫 How to reach me thissya129@gmail.com<br><br>⚡ Fun fact Someday, I dream of directing a film, turning my passion for storytelling into cinematic magic!
+💻 Artificial Intelligence & Data Science Student<br><br>🔭 I’m currently working on [Safe Bite AI](https://github.com/thissya/Safe-Bite-AI)<br><br>🌱 I’m currently learning MERN Stack<br><br>📫 How to reach me thissya129@gmail.com<br><br>⚡ Fun fact Someday, I dream of directing a film, turning my passion for storytelling into cinematic magic!
 
 ## 🌐 Socials:  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsthissyahere) 
