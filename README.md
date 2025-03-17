@@ -3,8 +3,8 @@
 # Hi there, it's Thissya here 👋  
 
 </div>
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=thissya.thissya)
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thissya.thissya" />
 
 💻 Artificial Intelligence & Data Science Student<br><br>🔭 I’m currently working on [Safe Bite AI](https://github.com/thissya/Safe-Bite-AI)<br><br>🌱 I’m currently learning MERN Stack<br><br>📫 How to reach me thissya129@gmail.com<br><br>⚡ Fun fact Someday, I dream of directing a film, turning my passion for storytelling into cinematic magic!
 
